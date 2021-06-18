@@ -1,0 +1,13 @@
+body {
+    margin-left: 40%;
+    margin-right: 40%;
+    align-self: center;
+}
+
+.allButtons {
+    flex-direction: column;
+}
+
+br {
+    padding: 20px;
+}
